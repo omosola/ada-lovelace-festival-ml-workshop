@@ -20,7 +20,7 @@ If you have basic Python experience, curiosity, and excitement, you're ready to 
 
 #### Download Anaconda
 * Anaconda is a python distribution which includes pretty much everything you need for out-of-the-box data science work.
-* Download and install Anaconda (for a Python 3.* version) from (https://www.anaconda.com/download)[https://www.anaconda.com/download]
+* Download and install Anaconda (for a Python 3.* version) from [https://www.anaconda.com/download](https://www.anaconda.com/download)
 
 #### Getting the Extra Libraries
 * There are a few extra packages you'll need for this workshop. Run the line below to get everything set up:
